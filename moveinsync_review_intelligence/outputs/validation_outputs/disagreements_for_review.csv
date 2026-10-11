@@ -1,0 +1,80 @@
+review_id,human_primary_theme,keyword_theme_candidates
+b736207a-f502-475d-bde3-c2b837e8e308,Booking & Scheduling,Safety & check-in
+782c4844-7afd-417f-b1ce-3c3019dfc8fb,Booking & Scheduling,Crashes & performance; Login & access; Routing & pickup
+11d99068-f4ec-422e-b2b5-8112b507ff58,Crashes & Performance,Uncategorized
+bfcef2a6-0897-4488-9779-5b3696ca02f4,Crashes & Performance,Uncategorized
+90107570-701b-4a5b-8a25-09ce6b75bac0,Crashes & Performance,Uncategorized
+bbd7a939-98ea-44cc-8c12-124806880b8e,Routing & Pickup,Uncategorized
+0941f657-db8a-4543-8835-c9d45bbc63fe,Support & Service,Uncategorized
+4b66e620-9876-4c67-8252-817270205662,Other / Uncategorized,Booking & scheduling; Routing & pickup
+d9085d1f-f751-4216-9978-59048c97e890,Other / Uncategorized,UI & usability
+2d0a5910-f297-47cd-ad6f-fe880e569748,Routing & Pickup,Uncategorized
+482f69ad-bc73-4d9f-84df-84367b9cea72,UI & Usability,Uncategorized
+1d78d213-be27-40a8-996a-84675b5a48ab,Routing & Pickup,Uncategorized
+39af8053-adf1-4976-a101-6e6458bf659c,Booking & Scheduling,Login & access
+eed6a453-75f5-47eb-9dba-109a20c39f8b,Crashes & Performance,Uncategorized
+687a9573-d6cb-4801-8578-7eb948c6a722,Crashes & Performance,Login & access
+9ffd1bf3-595b-477e-aeee-4360533cc31b,Support & Service,Uncategorized
+c1b8c8d9-26dd-4d70-b843-8993f6c6e400,Login & Access,Uncategorized
+225d87f1-5d2f-4d23-ac26-ecda35211579,Support & Service,Uncategorized
+ddbbdfde-e72f-4977-9a24-aa87fdc80490,UI & Usability,Uncategorized
+47b0eb14-2603-4822-87d2-dbc14e32293e,Safety & Check-in,Uncategorized
+af8750ce-c124-4f34-89c0-c8b083885fd6,UI & Usability,Uncategorized
+3eaa75e9-2fa4-47b8-853a-b30d962506d2,UI & Usability,Tracking & ETA
+e34b1ff3-9b34-4302-8c68-b68bc75a3fda,Login & Access,UI & usability
+6606a281-07ff-41de-8f09-2d25e52967dc,Crashes & Performance,Uncategorized
+0e4dbe76-d1d1-49f2-8f4b-e608c076e7c1,Routing & Pickup,Uncategorized
+a406ad1f-e340-4c0b-93a1-def2fa73e2c3,Crashes & Performance,Uncategorized
+34dba313-e187-4295-884c-9d870fe4ee29,Safety & Check-in,Uncategorized
+80ed5236-8be9-4587-a162-426824412290,Notifications & Communication,Tracking & ETA
+ed66ceda-ed87-4eec-b838-97a7b11aa91e,Tracking & ETA,Routing & pickup
+6dbe995c-5664-4890-ab6d-9ee0b4dec570,UI & Usability,Uncategorized
+31147771-389c-4517-bc54-91e25214bfd5,Routing & Pickup,Uncategorized
+85146e08-4f64-4ea2-9541-7a3d22af578e,Support & Service,Uncategorized
+6c599119-7ea8-4875-a175-f3629297d942,Other / Uncategorized,Booking & scheduling; Tracking & ETA
+9c193c57-e4c9-4849-8107-46c9afcb079e,Support & Service,Uncategorized
+70d4999d-e679-4161-9a98-46b6bd175d35,Routing & Pickup,Uncategorized
+170f3ba5-1ffd-40ef-94db-a5cb4042b8a6,UI & Usability,Uncategorized
+7532f0bc-ef59-43a0-89f2-fd81eee9c82f,Other / Uncategorized,Safety & check-in; Support & service
+d6281479-9ab3-42c9-ac15-9f41b176659c,Crashes & Performance,Uncategorized
+dc2a53c9-009d-4c06-b360-9b1fd98d2782,Login & Access,Uncategorized
+f9a7cc33-1f83-4848-ab97-1f22d8650ac3,Crashes & Performance,Uncategorized
+dd921420-6a9a-4a1b-afcc-67b1d39cd84c,UI & Usability,Login & access
+cd0fae07-d5b9-4095-8b2b-30558a07d736,UI & Usability,Uncategorized
+116d614a-076d-4915-9830-523643ac0a20,Routing & Pickup,Uncategorized
+69035a8e-3ccf-4c79-8178-0d848871b9aa,UI & Usability,Booking & scheduling
+9df4ff89-07ac-40a0-8de6-49cf33cc9e93,Safety & Check-in,Uncategorized
+7db51491-0223-4f56-9018-31fdf646999e,Routing & Pickup,Tracking & ETA
+2d6db443-45d2-4afd-bc5b-b9abe99b5d7d,Login & Access,Uncategorized
+5a65342f-208a-4b60-a9b0-243be3617f8f,Tracking & ETA,Uncategorized
+c43e13cd-0b94-40a0-b3a2-d4c59b14f049,Tracking & ETA,Booking & scheduling; Support & service
+59b2d93c-4120-4fa4-acd3-8576f5d770d7,Routing & Pickup,Uncategorized
+dc871c88-187f-4814-8767-e0511d7ae177,Safety & Check-in,Notifications & communication; UI & usability
+6b880d97-5f65-4218-9b78-f68555db69c9,UI & Usability,Uncategorized
+27010cd9-d254-4692-ba81-30cd4b8797b2,Tracking & ETA,Crashes & performance; Routing & pickup
+fa29c635-08af-4a3f-9d36-3f4b3a4f598c,UI & Usability,Uncategorized
+a51dbe5d-c587-4bea-902a-cb12f25cfe41,Other / Uncategorized,UI & usability
+9c3a7855-c1f5-492e-b7cb-6508a971befd,Tracking & ETA,Uncategorized
+1caf6d22-5dd3-4652-a169-dda1c6393b0a,UI & Usability,Uncategorized
+2a6d7d01-678d-4a20-9c46-182c4641b544,Tracking & ETA,Uncategorized
+c4c982a7-763c-4e2b-889a-17109a961dc7,UI & Usability,Uncategorized
+5f405bea-f44c-46d0-bce7-439d5506d37a,Other / Uncategorized,Booking & scheduling; Tracking & ETA; Routing & pickup
+2930489b-0140-4b91-9072-214b090cc1b0,Booking & Scheduling,Uncategorized
+95431c9e-e673-4585-a5f9-275864d1b005,Routing & Pickup,Tracking & ETA
+edf9c82f-f269-4a7a-a3b4-a6342ea5afc3,UI & Usability,Safety & check-in
+cbd1a2d1-080c-4b9f-a54e-eb42ce163cc4,UI & Usability,Booking & scheduling; Notifications & communication
+f39006c5-9d5d-42a5-b376-9af5c5f246ac,Crashes & Performance,Uncategorized
+773466c7-be26-4694-a9ed-de943f2c80c9,UI & Usability,Uncategorized
+0e184e8e-9206-486c-a91c-c3a85f1d1aab,Notifications & Communication,Routing & pickup
+ed4450a3-c6fb-489c-87de-9361838eaee0,Safety & Check-in,Login & access
+c54819fe-e6f1-400f-81e4-d739ead14d7c,Crashes & Performance,Uncategorized
+ab22d06f-a3be-49e3-a460-5ef157ec534c,Safety & Check-in,Support & service
+616438d9-be48-4bb0-b179-e008f9516b94,Routing & Pickup,Uncategorized
+2109668e-b908-4604-a7c0-dc526e27ea9e,Support & Service,Uncategorized
+1c47e401-cc17-4a21-bd3b-6afb62cbdd29,UI & Usability,Uncategorized
+add9f738-be79-4ada-94ee-8df63ecc64c7,UI & Usability,Uncategorized
+a4ccf916-de6a-4d87-84d7-afd15a73e9ac,Routing & Pickup,Uncategorized
+401d832c-e10c-4b0c-bbdd-c02c718d47d3,Booking & Scheduling,Safety & check-in
+42efbd74-fffb-4374-a2f9-941cec4c02ed,Routing & Pickup,Uncategorized
+8d3716fc-4ba6-478c-9a31-ca0c17ff7df8,Booking & Scheduling,UI & usability
+c4263791-cca3-4ebf-8b7b-162fd97b7026,Crashes & Performance,Booking & scheduling
