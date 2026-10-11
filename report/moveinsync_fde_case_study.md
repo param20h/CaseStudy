@@ -1,13 +1,13 @@
 # MoveInSync Review Intelligence
 
-## FDE Internship Case Study --- Investigation Report
+## FDE Internship Case Study - Investigation Report
 
 **Prepared:** 11 October 2026\
 **Product reviewed:** MoveInSync employee transport app\
 **Google Play package:** `com.moveinsync.ets`\
 **Analysis dataset:** 5,000 public Google Play reviews collected with
 `google-play-scraper`\
-**Review period in dataset:** 22 January 2025 -- 9 October 2026
+**Review period in dataset:** 22 January 2025 - 9 October 2026
 
 ------------------------------------------------------------------------
 
@@ -30,12 +30,12 @@ can block an employee's commute, and validate those signals against
 authorized operational evidence.
 
 **Recommended initial investigations:** 1. **Login and access
-reliability** --- OTP delivery/visibility, session persistence, repeated
+reliability** - OTP delivery/visibility, session persistence, repeated
 authentication, and unexpected access failures. 2. **App stability and
-performance** --- launch failures, loading hangs, and errors during
-time-sensitive actions. 3. **Booking and pickup workflow integrity** ---
+performance** - launch failures, loading hangs, and errors during
+time-sensitive actions. 3. **Booking and pickup workflow integrity** -
 consistency between booking state, confirmation messages, and what the
-user sees when reopening the app. 4. **Tracking and ETA trust** ---
+user sees when reopening the app. 4. **Tracking and ETA trust** -
 stale location data, ETA accuracy, and clarity when tracking is
 unavailable.
 
@@ -275,7 +275,7 @@ pattern.
 
 ## 6. Proposed 30-day plan
 
-### Days 1--5: Confirm and baseline
+### Days 1-5: Confirm and baseline
 
 -   Agree on event definitions and access to authorized telemetry.
 -   Review a set of high-actionability reviews and map them to existing
